@@ -1,0 +1,90 @@
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	max-width: 100%
+
+}
+head{}
+
+header{
+    width: 1100px;
+    margin: 0 auto;
+}
+
+header .div{}
+
+body{
+	width: 1100px;
+    margin: 0 auto;
+
+}
+
+.box{
+	margin-top: 130px;
+}
+
+.logo-image{width: 144px;}
+
+.about-section h1{
+    font-size: 7em;
+    font-variant-caps: petite-caps;
+    text-transform: capitalize;
+    line-height: 91.2px;
+    width: 1000px;
+}
+
+.about-section p{
+    margin-top: 2em;
+    font-size: 1.5em;
+    width: 600px;
+}
+
+.about-section{
+    margin-top: 45px;
+}
+
+.geospatial{
+    
+    width: 1100px;
+    margin: 0 auto
+}
+
+.geospatial h1{
+    font-size: 40px;
+}
+
+.geospatial p{
+    margin-top: 20px;
+}
+
+.geospatial .box{
+}
+
+.box-img{
+
+}
+
+.usa{
+
+}
+.usa .box{}
+
+.usa .box-img{}
+h2{
+
+font-size: 50px;
+}
+
+h3{
+
+margin-top: 60px;
+
+font-size: 25px;
+}
+
+h4{
+
+}
